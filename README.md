@@ -1,2 +1,2 @@
 # microservice-spring-cloud
-:fish: # Microservice Spring Cloud
+:fish: # Microservice Spring Cloud.
