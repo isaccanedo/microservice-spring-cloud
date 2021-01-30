@@ -9,6 +9,8 @@ import org.springframework.cloud.client.ServiceInstance;
 import org.springframework.cloud.client.discovery.DiscoveryClient;
 import org.springframework.stereotype.Service;
 
+// @author Isac Canedo
+
 @Service
 public class EurekaService {
 
